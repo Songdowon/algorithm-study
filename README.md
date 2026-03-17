@@ -7,13 +7,14 @@
 
 ## 📌 Structure
 
+```text
 algorithm-study/
+├── README.md
 ├── baekjoon/
-│ ├── bronze/
-│ ├── silver/
-│ ├── gold/
-
----
+│   ├── bronze/
+│   │   └── boj_15552_fast_a_plus_b.py
+│   ├── silver/
+│   └── gold/
 
 ## 🚀 Progress
 
