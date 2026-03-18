@@ -5,7 +5,7 @@
 입력 개수가 많아서 빠른 입출력 필요
 
 접근:
-sys.stdin.readline 사용
+sys.stdin.readline 사용 
 
 시간복잡도:
 O(N)

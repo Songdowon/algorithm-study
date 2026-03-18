@@ -15,6 +15,12 @@ algorithm-study/
 │   │   └── boj_15552_fast_a_plus_b.py
 │   ├── silver/
 │   └── gold/
+├── study-notes
+│   └──python
+│      ├── methods/
+│      ├── modules/
+│
+
 
 ## 🚀 Progress
 
