@@ -13,8 +13,7 @@ algorithm-study/
 ├── baekjoon/
 │   ├── README.md      
 │   ├── bronze/
-│   │   ├── README.md  
-│   │   └── 문제 파일들
+│   │   └── README.md
 │   ├── silver/
 │   │   └── README.md
 │   └── gold/
