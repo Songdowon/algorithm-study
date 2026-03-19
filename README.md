@@ -13,16 +13,13 @@ algorithm-study/
 ├── baekjoon/
 │   ├── README.md      
 │   ├── bronze/
-│   │   └── README.md
 │   ├── silver/
-│   │   └── README.md
 │   └── gold/
-│       └── README.md
-├── study-notes/
-│   └── python/
-│       ├── README.md  
-│       ├── methods/
-│       └── modules/
+│
+├── python-notes/
+│   ├── README.md  
+│   ├── methods/
+│   └── modules/
 ```
 
 ---
