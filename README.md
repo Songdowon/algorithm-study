@@ -9,31 +9,32 @@
 
 ```text
 algorithm-study/
-├── README.md
+├── README.md          
 ├── baekjoon/
+│   ├── README.md      
 │   ├── bronze/
-│   │   └── boj_15552_fast_a_plus_b.py
+│   │   ├── README.md  
+│   │   └── 문제 파일들
 │   ├── silver/
+│   │   └── README.md
 │   └── gold/
-├── study-notes
-│   └──python
-│      ├── methods/
-│      ├── modules/
-│
+│       └── README.md
+├── study-notes/
+│   └── python/
+│       ├── README.md  
+│       ├── methods/
+│       └── modules/
 ```
 
 ---
 
 ## 🚀 Progress
 
-### 🥉 Bronze
-- BOJ 15552 - 빠른 A+B
+- Bronze: 1+
+- Silver: 0
+- Gold: 0
 
-### 🥈 Silver
-- (추가 예정)
-
-### 🥇 Gold
-- (추가 예정)
+👉 Detailed progress in each folder
 
 ---
 
@@ -48,4 +49,4 @@ algorithm-study/
 ## ✍️ Note
 
 - Python을 사용하여 풀이
-- 풀이 과정 및 학습 내용 기록 예정
+- 풀이 과정 및 학습 내용은 각 폴더의 README.md에 상세히 정리
