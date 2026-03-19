@@ -17,8 +17,17 @@ python-notes/
 │   └── (to be added)
 ├── modules/
 │   └── sys.md
-└── templates/
-    ├── method-template.md
-    └── module-template.md
+├── templates/
+│   ├──method-template.md
+│   ├── module-template.md
+│   └── python-template.md
 
 ```
+
+## 📝 Templates
+
+- [Method Template](./templates/method-template.md)
+- [Module Template](./templates/module-template.md)
+- [Problem Template](./templates/problem-template.md)
+
+---
