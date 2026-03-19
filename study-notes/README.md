@@ -1,4 +1,4 @@
-# 🐍 Python Study Notes
+# 🐍 Python Notes
 
 This folder contains notes on Python methods and modules.  
 It is used to organize concepts learned through coding tests, problem solving, and Python practice.
@@ -11,8 +11,7 @@ It is used to organize concepts learned through coding tests, problem solving, a
 ## 📂 Structure
 
 ```text
-study-notes/
-├──python/
+python-notes/
 ├── README.md
 ├── methods/
 │   └── (to be added)
