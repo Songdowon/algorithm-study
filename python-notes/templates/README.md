@@ -1,8 +1,19 @@
 # Templates
 
-This folder contains reusable templates for organizing study notes.
+Reusable templates for organizing Python study notes and problem solving.
 
-- method-template.md: Template for Python methods
-- module-template.md: Template for Python modules
+---
 
-These templates help maintain consistency across all notes.
+## 📂 Available Templates
+
+- method-template.md → Python methods
+- module-template.md → Python modules
+- problem-template.md → Algorithm problems
+
+---
+
+## 🎯 Purpose
+
+- Maintain consistent structure
+- Improve readability
+- Speed up note-taking
