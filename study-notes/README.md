@@ -11,7 +11,8 @@ It is used to organize concepts learned through coding tests, problem solving, a
 ## 📂 Structure
 
 ```text
-python/
+study-notes/
+├──python/
 ├── README.md
 ├── methods/
 │   └── (to be added)
