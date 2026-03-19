@@ -20,7 +20,7 @@ python-notes/
 ├── templates/
 │   ├──method-template.md
 │   ├── module-template.md
-│   └── python-template.md
+│   └── solution-template.md
 
 ```
 
@@ -28,6 +28,6 @@ python-notes/
 
 - [Method Template](./templates/method-template.md)
 - [Module Template](./templates/module-template.md)
-- [Problem Template](./templates/problem-template.md)
+- [Solution Template](./templates/solution-template.md)
 
 ---
