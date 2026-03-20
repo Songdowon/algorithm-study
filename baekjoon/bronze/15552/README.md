@@ -52,4 +52,4 @@
 
 ## 💻 코드
 
-👉 [코드 보기](./boj_15552_fast_a_plus_b.py)
+👉 [코드 보기](./solution.py)

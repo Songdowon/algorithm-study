@@ -1,3 +1,5 @@
+# BOJ 15552 - 빠른 입력
+
 import sys
 
 input = sys.stdin.readline
