@@ -45,22 +45,26 @@ def solution3(nums):
 # main
 #-------------------------
 
-n = int(input())
-nums = list(map(int, input().split()))
+def main():
+    n = int(input())
 
-mode = 1 # 1, 2, 3 중 선택
-
-if mode == 1 or mode == 2:
-    nums = list(map(int, input().split()))
-
-    if mode == 1:
-        answer = solution1(nums)
+    mode = int(input())
     
-    else:
-        answer = solution2(nums)
-    
-else :
-    nums = map(int, input().split())
-    answer = solution3(nums)
+    # 1, 2, 3 중 선택
 
-print(*answer)
+    if mode == 1 or mode == 2:
+        nums = list(map(int, input().split()))
+
+        if mode == 1:
+            answer = solution1(nums)
+    
+        else:
+            answer = solution2(nums)
+    
+    else :
+        nums = map(int, input().split())
+        answer = solution3(nums)
+    
+    print(*answer)
+
+main()
