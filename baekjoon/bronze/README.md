@@ -13,11 +13,11 @@
 
 ---
 
-### 2. BOJ XXXX - 문제 이름
-- 🔗 문제: https://www.acmicpc.net/problem/XXXX  
-- 📂 풀이: [README](./XXXX/README.md)  
-- 💻 코드: [solution.py](./XXXX/solution.py)  
-- 💡 핵심:  
-- 🛠 사용:  
+### 2. BOJ 10807 - 개수 세기
+- 🔗 문제: https://www.acmicpc.net/problem/10807
+- 📂 풀이: [README](./10807/README.md)  
+- 💻 코드: [solution.py](./10807/solution.py)  
+- 💡 핵심: 리스트로 만들어서 개수 세기
+- 🛠 사용: count() 
 
 ---
