@@ -1,34 +1,84 @@
-# Modules
+# [Module Name]
 
-This folder contains notes on Python standard modules.
-
----
-
-## 📌 What is a Module?
-
-A module is a collection of functions and variables that can be imported and used.
+## 1. Overview
+[모듈이 무엇인지 한 줄 설명]
 
 ---
 
-## 📂 Covered Modules
-
-- [sys](./sys.md)
-- (to be added..)
+## 2. Why it matters
+[왜 중요한지 / 언제 쓰는지]
 
 ---
 
-## 🎯 Focus
+## 3. Key APIs
 
-- 핵심 기능 이해
-- 언제 사용하는지
-- 코딩 테스트 활용
+### 3.1 `[API 이름]`
+
+- **역할**: 
+- **왜 사용하나**: 
+- **특징**
+  - 
+- **주의점**
+  - 
+
+#### Code
+```python
+# example code
+```
+
+#### Output
+```text
+# expected output
+```
 
 ---
 
-## 📝 Rule
+### 3.2 `[API 이름]`
 
-- 하나의 모듈 = 하나의 파일
-- 핵심 API 중심으로 정리
-- 예제 코드 포함
+- **역할**: 
+- **왜 사용하나**: 
+- **특징**
+  - 
+- **주의점**
+  - 
+
+#### Code
+```python
+# example code
+```
+
+#### Output
+```text
+# expected output
+```
 
 ---
+
+## 4. Comparison
+
+### `[개념 A]` vs `[개념 B]`
+
+| 항목 | A | B |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+
+---
+
+## 5. When to use
+
+- 
+- 
+- 
+
+---
+
+## 6. Summary
+[핵심 한 줄 정리]
+
+---
+
+## 7. Related
+- 
+- 

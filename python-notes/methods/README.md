@@ -1,35 +1,73 @@
-# Methods
+# [Method Name]
 
-This folder contains notes on Python built-in methods.
-
----
-
-## 📌 What is a Method?
-
-A method is a function that belongs to an object.
+## 1. Overview
+[이 메서드가 무엇을 하는지 한 줄 설명]
 
 ---
 
-## 📂 Covered Methods
-
-- (to be added..)
--
--
-
----
-
-## 🎯 Focus
-
-- 동작 방식 이해
-- 반환값 여부
-- 원본 변경 여부
+## 2. Syntax
+```python
+[object].[method_name]([arguments])
+```
 
 ---
 
-## 📝 Rule
+## 3. Parameters
 
-- 하나의 메서드 = 하나의 파일
-- 예제 중심으로 정리
-- 실수/주의 포함
+| 파라미터 | 설명 |
+|---|---|
+| | |
+| | |
 
 ---
+
+## 4. Return Value
+
+| 타입 | 설명 |
+|---|---|
+| | |
+
+---
+
+## 5. Example
+
+#### Code
+```python
+# example code
+```
+
+#### Output
+```text
+# expected output
+```
+
+---
+
+## 6. Key Points
+
+- 
+- 
+- 
+
+---
+
+## 7. Pitfalls (주의할 점)
+
+- 
+- 
+- 
+
+---
+
+## 8. When to use
+
+- 
+- 
+- 
+
+---
+
+## 9. Related
+
+- 
+- 
