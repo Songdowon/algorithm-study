@@ -14,7 +14,7 @@ It is used to organize concepts learned through coding tests, problem solving, a
 python-notes/
 ├── README.md
 ├── methods/
-│   └── (to be added)
+│   └── map.md
 ├── modules/
 │   └── sys.md
 ├── templates/
