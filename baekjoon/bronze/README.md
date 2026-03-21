@@ -22,7 +22,7 @@
 
 ---
 
-### 3. BOJ 10818 - 최대, 최소
+### 3. BOJ 10818 - 최소, 최대
 - 🔗 문제: https://www.acmicpc.net/problem/10818
 - 📂 풀이: [README](./10818/README.md)  
 - 💻 코드: [solution.py](./10818/solution.py)  
