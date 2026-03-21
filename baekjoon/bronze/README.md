@@ -21,3 +21,10 @@
 - 🛠 사용: count() 
 
 ---
+
+### 3. BOJ 10818 - 최대, 최소
+- 🔗 문제: https://www.acmicpc.net/problem/10818
+- 📂 풀이: [README](./10818/README.md)  
+- 💻 코드: [solution.py](./10818/solution.py)  
+- 💡 핵심: 파이썬의 내장 함수를 이용하거나 반복문으로 직접 구현하기
+- 🛠 사용: min(), max() / for문 
