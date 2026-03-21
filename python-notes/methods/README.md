@@ -51,7 +51,13 @@
 
 ---
 
-## 7. Pitfalls (주의할 점)
+## 7. Time Complexity
+
+- 
+
+---
+
+## 8. Pitfalls (주의할 점)
 
 - 
 - 
@@ -59,7 +65,7 @@
 
 ---
 
-## 8. When to use
+## 9. When to use
 
 - 
 - 
@@ -67,7 +73,7 @@
 
 ---
 
-## 9. Related
+## 10. Related
 
 - 
 - 
