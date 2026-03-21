@@ -1,8 +1,12 @@
 # BOJ 10807 - 개수 세기 
 
-a = int(input())
-for _ in range(a):
-    b = map(int, input().split())
+import sys
 
-c = int(input())
-print(b.count(c))
+input = sys.stdin.readline
+
+n = int(input())
+arr = list(map(int, input().split()))
+target = int(input())
+
+print(arr.count(target))
+
