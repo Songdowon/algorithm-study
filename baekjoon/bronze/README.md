@@ -40,11 +40,20 @@
 
 ---
 
-### 4. <1차원 배열> BOJ 10810 - 공 넣기
+### 5. <1차원 배열> BOJ 10810 - 공 넣기
 - 🔗 문제: https://www.acmicpc.net/problem/10810
 - 📂 풀이: [README](./10810/README.md)  
 - 💻 코드: [solution.py](./10810/solution.py)  
 - 💡 핵심: 리스트 생성 및 초기화, 구간 값 갱신, 인덱스 변환
 - 🛠 사용: list, for, map, print(*) 
+
+---
+
+### 6. <1차원 배열> BOJ 10813 - 공 바꾸기
+- 🔗 문제: https://www.acmicpc.net/problem/10813
+- 📂 풀이: [README](./10813/README.md)  
+- 💻 코드: [solution.py](./10813/solution.py)  
+- 💡 핵심: 리스트 생성 및 초기화, swap(교환) 연산, 인덱스 변환 (i-1, j-1)
+- 🛠 사용: list, for, map, swap 
 
 
