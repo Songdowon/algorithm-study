@@ -17,7 +17,7 @@ algorithm-study/
 │   └── gold/
 │
 ├── python-notes/
-│   ├── README.md  
+│   ├── README.md
 │   ├── methods/
 │   └── modules/
 ```
