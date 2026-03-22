@@ -28,3 +28,13 @@
 - 💻 코드: [solution.py](./10818/solution.py)  
 - 💡 핵심: 파이썬의 내장 함수를 이용하거나 반복문으로 직접 구현하기
 - 🛠 사용: min(), max() / for문 
+
+---
+
+### 4. BOJ 2562 - 최댓값 + 위치 찾기
+- 🔗 문제: https://www.acmicpc.net/problem/2562
+- 📂 풀이: [README](./2562/README.md)  
+- 💻 코드: [solution.py](./2562/solution.py)  
+- 💡 핵심: 파이썬의 enumerate()로 인덱스와 값 한번에 찾기
+- 🛠 사용: enumerate(), max() 
+
