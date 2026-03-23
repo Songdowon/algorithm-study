@@ -56,4 +56,13 @@
 - 💡 핵심: 리스트 생성 및 초기화, swap(교환) 연산, 인덱스 변환 (i-1, j-1)
 - 🛠 사용: list, for, map, swap 
 
+---
+
+### 7. <1차원 배열> BOJ 5597 - 과제 안 내신 분..?
+- 🔗 문제: https://www.acmicpc.net/problem/5597
+- 📂 풀이: [README](./5597/README.md)  
+- 💻 코드: [solution.py](./5597/solution.py)  
+- 💡 핵심: 번호 기반 존재 여부 체크 → 제출하지 않은 번호 찾기
+- 🛠 사용: list, set, boolean array, for, print(sep="\n") 
+
 
