@@ -54,4 +54,11 @@
 - 💡 핵심: 번호 기반 존재 여부 체크 → 제출하지 않은 번호 찾기
 - 🛠 사용: list, set, boolean array, for, print(sep="\n") 
 
+---
 
+### 7. <1차원 배열> BOJ 3052 - 나머지
+- 🔗 문제: https://www.acmicpc.net/problem/3052
+- 📂 풀이: [README](./3052/README.md)  
+- 💻 코드: [solution.py](./3052/solution.py)  
+- 💡 핵심: 중복 제거 → 서로 다른 나머지 개수 → set 활용
+- 🛠 사용: set, list, boolean array, for, set comprehension, if __name__ == "__main__"
