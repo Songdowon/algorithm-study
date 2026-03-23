@@ -1,6 +1,4 @@
-# 🥉 Bronze
-
-## ✅ Solved Problems
+# ✅ Solved Problems
 
 ---
 
