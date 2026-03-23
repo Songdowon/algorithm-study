@@ -61,4 +61,4 @@
 - 📂 풀이: [README](./3052/README.md)  
 - 💻 코드: [solution.py](./3052/solution.py)  
 - 💡 핵심: 중복 제거 → 서로 다른 나머지 개수 → set 활용
-- 🛠 사용: set, list, boolean array, for, set comprehension, if __name__ == "__main__"
+- 🛠 사용: set, list, boolean array, for, set comprehension, if `__name__ == "__main__"`
