@@ -4,16 +4,7 @@
 
 ---
 
-### 1. <반복문> BOJ 15552 - 빠른 A+B 
-- 🔗 문제: https://www.acmicpc.net/problem/15552  
-- 📂 풀이: [README](./15552/README.md)  
-- 💻 코드: [solution.py](./15552/solution.py)  
-- 💡 핵심: 빠른 입출력  
-- 🛠 사용: sys.stdin.readline  
-
----
-
-### 2. <1차원 배열> BOJ 10807 - 개수 세기
+### 1. <1차원 배열> BOJ 10807 - 개수 세기
 - 🔗 문제: https://www.acmicpc.net/problem/10807
 - 📂 풀이: [README](./10807/README.md)  
 - 💻 코드: [solution.py](./10807/solution.py)  
@@ -22,7 +13,7 @@
 
 ---
 
-### 3. <1차원 배열> BOJ 10818 - 최소, 최대
+### 2. <1차원 배열> BOJ 10818 - 최소, 최대
 - 🔗 문제: https://www.acmicpc.net/problem/10818
 - 📂 풀이: [README](./10818/README.md)  
 - 💻 코드: [solution.py](./10818/solution.py)  
@@ -31,7 +22,7 @@
 
 ---
 
-### 4. <1차원 배열> BOJ 2562 - 최댓값 + 위치 찾기
+### 3. <1차원 배열> BOJ 2562 - 최댓값 + 위치 찾기
 - 🔗 문제: https://www.acmicpc.net/problem/2562
 - 📂 풀이: [README](./2562/README.md)  
 - 💻 코드: [solution.py](./2562/solution.py)  
@@ -40,7 +31,7 @@
 
 ---
 
-### 5. <1차원 배열> BOJ 10810 - 공 넣기
+### 4. <1차원 배열> BOJ 10810 - 공 넣기
 - 🔗 문제: https://www.acmicpc.net/problem/10810
 - 📂 풀이: [README](./10810/README.md)  
 - 💻 코드: [solution.py](./10810/solution.py)  
@@ -49,7 +40,7 @@
 
 ---
 
-### 6. <1차원 배열> BOJ 10813 - 공 바꾸기
+### 5. <1차원 배열> BOJ 10813 - 공 바꾸기
 - 🔗 문제: https://www.acmicpc.net/problem/10813
 - 📂 풀이: [README](./10813/README.md)  
 - 💻 코드: [solution.py](./10813/solution.py)  
@@ -58,7 +49,7 @@
 
 ---
 
-### 7. <1차원 배열> BOJ 5597 - 과제 안 내신 분..?
+### 6. <1차원 배열> BOJ 5597 - 과제 안 내신 분..?
 - 🔗 문제: https://www.acmicpc.net/problem/5597
 - 📂 풀이: [README](./5597/README.md)  
 - 💻 코드: [solution.py](./5597/solution.py)  
