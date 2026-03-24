@@ -59,6 +59,9 @@ def solution_3(word):
 
     return result
 
+#-------------------------
+# main
+#-------------------------
 
 def main():
     word = input().strip()
