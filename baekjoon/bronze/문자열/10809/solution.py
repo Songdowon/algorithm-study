@@ -7,6 +7,7 @@ input = sys.stdin.readline
 #-------------------------
 # solution 1. find()
 #-------------------------
+
 def solution_1(word):
     
     alphabet = 'abcdefghijklmnopqrstuvwxyz'
@@ -22,6 +23,7 @@ def solution_1(word):
 #-------------------------
 # solution 2. 리스트 + 직접 기록
 #-------------------------
+
 def solution_2(word):
     
     result = [-1] * 26
@@ -38,6 +40,7 @@ def solution_2(word):
 #-------------------------
 # solution 3. dictionary
 #-------------------------
+
 def solution_3(word):
     
     alphabet = 'abcdefghijklmnopqrstuvwxyz'
