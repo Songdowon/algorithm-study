@@ -62,3 +62,10 @@
 - 💻 코드: [solution.py](./3052/solution.py)  
 - 💡 핵심: 중복 제거 → 서로 다른 나머지 개수 → set 활용
 - 🛠 사용: set, list, boolean array, for, set comprehension, if `__name__ == "__main__"`
+
+### 8. <1차원 배열> BOJ 10811 - 바구니 뒤집기
+- 🔗 문제: https://www.acmicpc.net/problem/10811
+- 📂 풀이: [README](./10811/README.md)  
+- 💻 코드: [solution.py](./10811/solution.py)  
+- 💡 핵심: 구간 뒤집기 → slicing → `[::-1]` 활용
+- 🛠 사용: list, slicing, `[::-1]`, reversed(), tuple, for, while, if `__name__ == "__main__"`
