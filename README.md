@@ -26,7 +26,7 @@ algorithm-study/
 
 ## 🚀 Progress
 
-- Bronze: 10+
+- Bronze: 11+
 - Silver: 0
 - Gold: 0
 
