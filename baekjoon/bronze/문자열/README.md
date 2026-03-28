@@ -26,3 +26,12 @@
 - 💻 코드: [solution.py](./5622/solution.py)  
 - 💡 핵심: 문자 → 숫자 매핑을 통해 다이얼 시간 계산
 - 🛠 사용: 문자열 `in` 연산, `enumerate()`, `ord()`, 문자열 인덱싱
+
+---
+
+### 4. <문자열> BOJ 1157 - 단어 공부
+- 🔗 문제: https://www.acmicpc.net/problem/1157
+- 📂 풀이: [README](./1157/README.md)  
+- 💻 코드: [solution.py](./1157/solution.py)  
+- 💡 핵심: 문자 빈도수 계산 후 최댓값 비교 및 중복 판별
+- 🛠 사용: `dict`, `max()`, `upper()`, `Counter`, `ord()`
