@@ -13,11 +13,11 @@
 
 ---
 
-### 2. BOJ xxxx - (문제 이름)
-- 🔗 문제: https://www.acmicpc.net/problem/xxxx
-- 📂 풀이: [README](./xxxx/README.md)  
-- 💻 코드: [solution.py](./xxxx/solution.py)  
-- 💡 핵심: 
-- 🛠 사용:  
+### 2. BOJ 2941 - 크로아티아 알파벳
+- 🔗 문제: https://www.acmicpc.net/problem/2941
+- 📂 풀이: [README](./2941/README.md)  
+- 💻 코드: [solution.py](./2941/solution.py)  
+- 💡 핵심: 크로아티아 알파벳 패턴을 하나의 문자처럼 처리하기
+- 🛠 사용: 문자열, replace(), 슬라이싱, while문
 
 ---
