@@ -21,3 +21,11 @@
 - 🛠 사용: 문자열, replace(), 슬라이싱, while문
 
 ---
+
+### 3. BOJ 1316 - 그룹 단어 체커
+- 🔗 문제: https://www.acmicpc.net/problem/1316
+- 📂 풀이: [README](./1316/README.md)  
+- 💻 코드: [solution.py](./1316/solution.py)  
+- 💡 핵심: 이전 문자와 현재 문자를 비교하며, 끊겼다가 다시 나온 문자가 있는지 확인하기
+- 🛠 사용: 문자열, `for`문, `set`, 이전 문자 비교
+
