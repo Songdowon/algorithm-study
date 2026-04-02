@@ -17,3 +17,12 @@
 - 💻 코드: [solution.py](./2444/solution.py)  
 - 💡 핵심: 출력 패턴 설계 (공백 + 별 규칙)  
 - 🛠 사용: 반복문, 문자열 곱셈 (`' ' * k`, `'*' * k`)  
+
+---
+
+### 3. <문자열> BOJ 2745 - 진법 변환  
+- 🔗 문제: https://www.acmicpc.net/problem/2745  
+- 📂 풀이: [README](./2745/README.md)  
+- 💻 코드: [solution.py](./2745/solution.py)  
+- 💡 핵심: 진법 수를 왼쪽부터 읽으며 누적 계산  
+- 🛠 사용: 문자열 순회, `isdigit()`, `ord()`, 진법 변환
