@@ -25,7 +25,7 @@ def solution_1(numbers):
 
 def solution_2(numbers):
     
-    return len({num % 42} for num in numbers)
+    return len({num % 42 for num in numbers})
 
 #-------------------------
 # solution 3. list → set 변환
