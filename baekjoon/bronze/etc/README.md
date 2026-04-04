@@ -35,3 +35,12 @@
 - 💻 코드: [solution.py](./11005/solution.py)  
 - 💡 핵심: 10진수를 `B`로 계속 나누며 나머지를 구해 `B`진수로 변환  
 - 🛠 사용: `%`, `//`, `reversed()`, `join()`, `chr()`, `ord()`
+
+---
+
+### 5. <그리디> BOJ 2720 - 세탁소 사장 동혁  
+- 🔗 문제: https://www.acmicpc.net/problem/2720  
+- 📂 풀이: [README](./2720/README.md)  
+- 💻 코드: [solution.py](./2720/solution.py)  
+- 💡 핵심: 큰 단위 동전부터 차례대로 개수를 구해 거스름돈을 계산 (그리디 알고리즘)  
+- 🛠 사용: 정수 단위 계산, `divmod()`, 튜플 반환, 언패킹
