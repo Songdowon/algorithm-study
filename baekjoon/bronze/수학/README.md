@@ -35,3 +35,12 @@
 - 💻 코드: [solution.py](./2903/solution.py)  
 - 💡 핵심: 한 변의 점 개수 규칙을 찾아 전체 점 개수를 계산  
 - 🛠 사용: 거듭제곱, 정수 계산, 점화식 아이디어
+
+---
+
+### 5. <수학> BOJ 2292 - 벌집  
+- 🔗 문제: https://www.acmicpc.net/problem/2292  
+- 📂 풀이: [README](./2292/README.md)  
+- 💻 코드: [solution.py](./2292/solution.py)  
+- 💡 핵심: 벌집의 각 층 마지막 번호를 누적해서 N이 속한 층 찾기  
+- 🛠 사용: `while`문, 정수 덧셈, 누적합, 
