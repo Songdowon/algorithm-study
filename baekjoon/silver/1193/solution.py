@@ -5,8 +5,7 @@ import sys
 input = sys.stdin.readline
 
 #-------------------------
-# solution 1. 가장 기본적이고 많이 쓰는 풀이
-# 대각선(구간) 기준으로 접근
+# solution 1. 대각선(구간) 기준으로 접근
 #-------------------------
 
 def solution_1(x):
