@@ -27,7 +27,7 @@ algorithm-study/
 ## 🚀 Progress
 
 - Bronze: 23+
-- Silver: 3+
+- Silver: 4+
 - Gold: 0
 
 👉 Detailed progress in each folder

@@ -25,7 +25,7 @@ This folder contains problem-solving records from Baekjoon Online Judge.
 | Level | Solved |
 |------|--------|
 | Bronze | 23 |
-| Silver | 3 |
+| Silver | 4 |
 | Gold | 0 |
 
 > Progress is updated as problems are solved.
